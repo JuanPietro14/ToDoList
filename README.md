@@ -1,97 +1,89 @@
-# To Do List
+# To-Do List
 
-# Documentação para Aplicação de Lista de Tarefas (To-Do List)
+# Documentation for To-Do List Application
 
-## Visão Geral
+##Overview
 
-A aplicação de Lista de Tarefas é uma ferramenta simples e eficaz para ajudar os usuários a organizar suas tarefas diárias. Com uma interface intuitiva e fácil de usar, os usuários podem adicionar, editar, excluir e marcar tarefas como concluídas.
+The To-Do List application is a simple and effective tool to help users organize their daily tasks. With an intuitive and easy-to-use interface, users can add, edit, delete and mark tasks as completed.
 
-## Instalação
+##Installation
 
-### Requisitos
+### Requirements
 
-- Navegador Web Moderno (Google Chrome, Mozilla Firefox, Safari, etc.)
+- Modern Web Browser (Google Chrome, Mozilla Firefox, Safari, etc.)
 
-### Passos de Instalação
+### Installation Steps
 
-1. Clone o repositório para o seu computador:
-   ```bash
-   git clone https://github.com/seu-usuario/todo-list.git
-2.  Abra o arquivo `index.html` em seu navegador.
+1. Clone the repository to your computer:
+     ```bash
+     git clone https://github.com/seu-usuario/todo-list.git
+2. Open the `index.html` file in your browser.
     
 
 * * *
 
-Funcionalidades Principais
+Main Features
 --------------------------
 
-### Adicionar Tarefa
+### Add Task
 
-*   Os usuários podem adicionar novas tarefas à lista.
+*Users can add new tasks to the list.
 
-### Editar Tarefa
+### Edit Task
 
-*   A funcionalidade de edição permite aos usuários modificar o conteúdo de uma tarefa existente.
+* Editing functionality allows users to modify the content of an existing task.
 
-### Marcar como Concluída
+### Mark as Complete
 
-*   As tarefas podem ser marcadas como concluídas para indicar seu status.
+*Tasks can be marked as completed to indicate their status.
 
-### Excluir Tarefa
+### Delete Task
 
-*   Os usuários podem excluir tarefas que já foram concluídas ou que não são mais necessárias.
+*Users can delete tasks that have already been completed or are no longer allowed.
 
 * * *
 
-Como Usar
+How to use
 ---------
 
-### Interface do Usuário
+### User Interface
 
-A interface é dividida em duas seções principais:
+The interface is divided into two main details:
 
-*   **Lista de Tarefas:** Exibe todas as tarefas adicionadas.
-*   **Formulário de Adição:** Permite aos usuários adicionar novas tarefas.
+* **Task List:** Displays all added tasks.
+* **Add Form:** Allows users to add new tasks.
 
-### Adicionar uma Nova Tarefa
+### Add a New Task
 
-1.  No formulário de adição, digite o nome da nova tarefa.
-2.  Pressione "Adicionar" ou pressione Enter.
+1. In the add form, enter the name of the new task.
+2. Press "Add" or press Enter.
 
-### Editar uma Tarefa Existente
+### Edit an Existing Task
 
-1.  Clique na tarefa que deseja editar.
-2.  Faça as alterações desejadas no formulário que aparece.
-3.  Pressione "Salvar" para confirmar as alterações.
+1. Click on the task you want to edit.
+2. Make the desired changes to the form that appears.
+3. Press "Save" to confirm the changes.
 
-### Marcar Tarefa como Concluída
+### Mark Task as Complete
 
-*   Clique na caixa de seleção ao lado da tarefa para marcá-la como concluída.
+* Click the checkbox next to the task to mark it as complete.
 
-### Excluir uma Tarefa
+### Delete a Task
 
-*   Clique no ícone de "X" ao lado da tarefa que deseja excluir.
-
-* * *
-
-Personalização
---------------
-
-### Organização
-
-*   As tarefas podem ser organizadas por prioridade, data de vencimento ou categoria. Use as opções de ordenação para personalizar a visualização da lista.
+* Click the "X" icon next to the task you want to delete.
 
 * * *
 
-Problemas Conhecidos
+
+Known Issues
 --------------------
 
-### Navegadores Suportados
+### Supported Browsers
 
-*   A aplicação é otimizada para os seguintes navegadores: Google Chrome, Mozilla Firefox, Safari. Pode haver problemas de compatibilidade com outros navegadores mais antigos.
+* The application is optimized for the following browsers: Google Chrome, Mozilla Firefox, Safari. There may be compatibility issues with other older browsers.
 
-### Resolução de Problemas Comuns
+### Solving Common Problems
 
-*   Se encontrar problemas, tente limpar o cache do navegador ou atualizar para a versão mais recente do navegador.
+* If you encounter problems, try clearing your browser cache or updating to the latest browser version.
 
 * * *
