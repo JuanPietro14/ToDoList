@@ -1,0 +1,49 @@
+/* geral */
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    color: #333;
+}
+
+body{
+    display: grid;
+    background-image: url(background.svg);
+    background-size: cover;
+    animation: rotate 5s infinite alternate linear;
+    place-items: center;
+}
+
+button{
+    background-color: #fdfdfd;
+    color: #102F5e;
+    border: 2px solid #102F5e ;
+    padding: 2px 4px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+}
+
+button:hover{
+    background-color: #102F5e;
+    color: white;
+}
+
+button:hover > i{
+    color: white;
+}
+
+button i {
+    color: #102F5e;
+    font-weight: bold;
+    pointer-events: none;
+}
+
+input, select{
+    padding: 4px 6px;
+}
